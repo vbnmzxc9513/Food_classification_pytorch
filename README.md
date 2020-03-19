@@ -2,6 +2,7 @@
 ## Introduction
 - An easy images classification CNN deep learning example. 
 - An simple example for estimation the performance formulation
+- In train, validation, evaluation use each label name as folders to save the images.
 - If the folder location is the same as the Github configuration, there is no need to readjust the path.
 
 ## Quick Start
