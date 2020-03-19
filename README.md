@@ -8,4 +8,4 @@
 - pip install thop
 - Open the .ipynb and start.
 
-## To understand the parameters and MOCs used in torchvision pretrained model, easy way calculate MACs and parameter by Thop.
+### To understand the parameters and MOCs used in torchvision pretrained model, easy way calculate MACs and parameter by Thop.
