@@ -13,3 +13,4 @@
 
 
 ### To understand the parameters and MOCs used in torchvision pretrained model, easy way calculate MACs and parameter by Thop.
+- Thop_calculate_MACs_FLOPs.ipynb
