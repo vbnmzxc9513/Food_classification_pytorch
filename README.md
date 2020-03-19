@@ -1,6 +1,7 @@
 # Food_classification_pytorch
 ## Introduction
 - An easy images classification CNN deep learning example. 
+- An simple example for estimation the performance formulation
 - If the folder location is the same as the Github configuration, there is no need to readjust the path.
 
 ## Quick Start
