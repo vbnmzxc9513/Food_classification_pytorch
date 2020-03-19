@@ -6,7 +6,7 @@
 
 ## Quick Start
 - pip install torch torchvision
-- Open the .ipynb and start.
+- Open food11_classification.ipynb and start.
 ###  if you also want to know the each model complexity detail, install flowing package.
 - pip install thop
 - pip install --upgrade git+https://github.com/sovrasov/flops-counter.pytorch.git
