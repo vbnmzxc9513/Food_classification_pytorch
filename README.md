@@ -5,7 +5,10 @@
 
 ## Quick Start
 - pip install torch torchvision
-- pip install thop
 - Open the .ipynb and start.
+###  if you also want to know the each model complexity detail, install flowing package.
+- pip install thop
+- pip install --upgrade git+https://github.com/sovrasov/flops-counter.pytorch.git
+
 
 ### To understand the parameters and MOCs used in torchvision pretrained model, easy way calculate MACs and parameter by Thop.
